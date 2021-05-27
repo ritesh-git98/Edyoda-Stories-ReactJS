@@ -1,0 +1,589 @@
+.Logo__Logo__2isxd {
+    width: 100%;
+    height: 100%;
+    margin-top: 5px;
+    font-family: Raleway, sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.08;
+    letter-spacing: -.9px;
+    text-align: left;
+}
+
+.redirectAnchor {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.Logo__Light__2EwPM {
+    background-image: -webkit-linear-gradient(181deg, #0048ff, #0096ff), -webkit-linear-gradient(#000, #000);
+    background-image: -o-linear-gradient(181deg, #0048ff, #0096ff), -o-linear-gradient(#000, #000);
+    background-image: linear-gradient(269deg, #0048ff, #0096ff), linear-gradient(#000, #000);
+    color: #0084ff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@media (min-width:769px) {
+    .Logo__Logo__2isxd {
+        font-size: 2.1em;
+        margin-top: 0;
+        width: 130px;
+        -webkit-font-smoothing: antialiased;
+    }
+}
+
+.NavigationLink__NavigationLink__1T2UX {
+    font-size: 12px;
+    position: relative;
+}
+
+.NavigationLink__NavigationLink__1T2UX,
+.NavigationLink__NavigationLink__1T2UX a {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin: 0;
+}
+
+.NavigationLink__NavigationLink__1T2UX a {
+    text-decoration: none;
+    padding: 1.5em 12%;
+    height: 100%;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: .9px;
+    text-align: center;
+    border-bottom: 1px solid #efefef;
+}
+
+.NavigationLink__NavigationLink__1T2UX a:hover {
+    text-decoration: none;
+    color: unset;
+    background-color: unset;
+}
+
+.NavigationLink__NavigationLink__1T2UX>div {
+    width: 100%;
+    padding: 1.5em 12%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    height: 100%;
+    margin: 0;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: .9px;
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 1px solid #efefef;
+}
+
+.NavigationLink__NavigationLink__1T2UX.NavigationLink__Light__1Cx_- a {
+    color: #000;
+}
+
+.NavigationLink__NavigationLink__1T2UX a:active,
+.NavigationLink__NavigationLink__1T2UX a:hover {
+    text-decoration: none;
+}
+
+.NavigationLink__DropdownArrow__3bYcE {
+    padding-top: 0;
+    padding-left: 8px;
+}
+
+.NavigationLink__HorizontalAlign__s1BGI {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.NavigationLink__NavigationLink__1T2UX.NavigationLink__Light__1Cx_- .NavigationLink__HorizontalAlign__s1BGI {
+    color: #000;
+}
+
+@media (min-width:768px) {
+    .NavigationLink__NavigationLink__1T2UX {
+        margin: 0;
+        display: -ms-flexbox;
+        display: flex;
+        width: auto;
+        height: 100%;
+        -ms-flex-align: center;
+        align-items: center;
+        font-size: 16px;
+    }
+    .NavigationLink__NavigationLink__1T2UX>div,
+    .NavigationLink__NavigationLink__1T2UX a {
+        height: 100%;
+        margin: 0 10px;
+        padding: 12px 10px;
+        border-bottom: 4px solid transparent;
+    }
+}
+
+.Button__Button__QI7b2 {
+    width: auto;
+    height: 40px;
+    min-width: 100px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    border-radius: 20px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: none;
+    cursor: pointer;
+    padding: 8px 32px;
+    margin-right: 16px;
+    color: #fff;
+    outline: none;
+    font-family: Raleway, sans-serif;
+    font-size: .9em;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: .03em;
+    background: #0084ff;
+    background: -webkit-linear-gradient(269deg, #0048ff, #0096ff);
+    background: -webkit-linear-gradient(181deg, #0048ff, #0096ff);
+    background: -o-linear-gradient(181deg, #0048ff, #0096ff);
+    background: linear-gradient(269deg, #0048ff, #0096ff);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#0084ff", endColorstr="#0052ff", GradientType=1);
+}
+
+.Button__Button__QI7b2:focus {
+    outline: none;
+}
+
+.Button__TextOnlyButtonDark__142qk {
+    background: 0 0;
+    color: #000;
+}
+
+@media screen and (min-width:45em) {
+    .Button__Button__QI7b2 {
+        min-width: 136px;
+        height: 42px;
+        border-radius: 25px;
+    }
+}
+
+.NavigationLinks__NavigationLinks__1jolz {
+    font-size: 16px;
+    margin: -.25em 0;
+    width: 100%;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+.NavigationLinks__NavigationLink__2hqo3,
+.NavigationLinks__NavigationLinks__1jolz {
+    padding: 0;
+    list-style: none;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row;
+    flex-flow: row;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 100%;
+}
+
+.NavigationLinks__NavigationLink__2hqo3 {
+    width: auto;
+    margin: 0;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+}
+
+.NavigationLinks__NavigationLink__2hqo3 li {
+    height: 100%;
+}
+
+.NavigationLinks__RightEndMenus__m2UeA {
+    margin-top: auto;
+    padding: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    list-style: none;
+}
+
+.NavigationLinks__LoginButton__vfcTS button {
+    width: 4.375em;
+    margin-right: 0;
+}
+
+.NavigationLinks__SignupButton__3Avpf button {
+    width: 8.125em;
+    margin-right: 0;
+}
+
+.NavigationLinks__SearchIcon__3Wzs9 {
+    width: 1.25em;
+    height: 1.25em;
+    margin-top: .75em;
+    margin-right: 1.125em;
+    cursor: pointer;
+    opacity: .8;
+}
+
+.acoountIcon {
+    cursor: pointer;
+}
+
+.NavigationLinks__SidebarToggle__38YVc {
+    display: block;
+}
+
+.NavigationLinks__MenuIcon__Sbm7V {
+    width: 1.25em;
+    height: 1.25em;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: .2em;
+    margin-left: .25em;
+    cursor: pointer;
+}
+
+.NavigationLinks__NonMobileOnly__1lJ7T {
+    display: none;
+}
+
+@media screen and (min-width:992px) {
+    .NavigationLinks__NavigationLinks__1jolz {
+        margin: -.1875em 20px -.1875em 2.5em;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    .NavigationLinks__NavigationLink__2hqo3 li {
+        height: 100%;
+    }
+    .NavigationLinks__NonMobileOnly__1lJ7T {
+        display: -ms-inline-flexbox;
+        display: inline-flex;
+    }
+    .NavigationLinks__SearchIcon__3Wzs9 {
+        width: 1.375em;
+        height: 1.375em;
+        margin-top: .25em;
+        margin-bottom: .25em;
+        margin-right: .75em;
+        cursor: pointer;
+        opacity: .8;
+    }
+    .NavigationLinks__SidebarToggle__38YVc {
+        display: none;
+    }
+    .responsiveMenu {
+        display: none;
+    }
+}
+
+.Topbar__Topbar__3Rg8U {
+    width: 100%;
+    font-size: 16px;
+    height: 3.375em;
+    top: 0;
+    left: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: left;
+    justify-content: left;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    z-index: 90;
+    padding: .625em 6% .75em;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    font-family: Open Sans, sans-serif;
+}
+
+.Topbar__Light__1gpMJ {
+    background-color: #fff;
+    -webkit-box-shadow: 0 1px 1px #ccc;
+    box-shadow: 0 1px 1px #ccc;
+    position: fixed;
+}
+
+.Topbar__Logo__lSAmV {
+    width: 9em;
+    height: 100%;
+    text-decoration: none;
+}
+
+.Topbar__Topbar__3Rg8U>div {
+    -ms-flex-align: center;
+    align-items: center;
+    height: 100%;
+}
+
+@media screen and (min-width:45em) {
+    .Topbar__Topbar__3Rg8U {
+        width: 100%;
+        height: 65px;
+        z-index: 90;
+        padding: 1em 4.875em;
+    }
+    .Topbar__Logo__lSAmV {
+        width: auto;
+        height: 100%;
+        text-decoration: none;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #efefef;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #999797;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+/*! CSS Used fontfaces */
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyC0ITw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyC0ITw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyC0ITw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyC0ITw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v19/1Ptug8zYS_SKggPNyC0ITw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}

@@ -1,0 +1,28 @@
+main {
+    min-height: 90vh;
+    height: 100%;
+    width: 100%;
+    margin-top: 5rem;
+    padding: 0 2%;
+    box-sizing: border-box;
+}
+
+body {
+    scroll-behavior: smooth;
+    background-color: #F2F6FF;
+}
+
+.loader {
+    height: 90vh;
+    width: 100%;
+}
+.warningClass{
+    position: absolute;
+    color: red;
+    transform: translateY(-10px);
+}
+.successClass{
+    position: absolute;
+    color: green;
+    transform: translateY(-10px);
+}
